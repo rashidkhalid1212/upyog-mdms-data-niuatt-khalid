@@ -30318,6 +30318,30 @@
       "actionid": 1866,
       "actioncode": "",
       "tenantId": "pg"
-    }		 	   
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2907,
+      "actioncode": "",
+      "tenantId": "pg"
+    },	   
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2908,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2909,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2910,
+      "actioncode": "",
+      "tenantId": "pg"
+    }  
   ]
 }
