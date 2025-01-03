@@ -19171,7 +19171,7 @@
     {
       "id": 2885,
       "name": "MDMS",
-      "url":"mdms-v2/v2/_update/ASSET.ActionOption",
+      "url":"/mdms-v2/v2/_update/ASSET.ActionOption",
       "displayName": "Update Action Option",
       "orderNumber": 1,
       "parentModule": "",
